@@ -68,7 +68,7 @@ header a:hover {
 
 .about h2, .portfolio h2, .contact h2 {
     font-size: 2.8rem;
-    margin: 80px;
+    margin-top: 80px;
     color: #333;
 }
 
